@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Biomedical+Engineering+Student;Full-Stack+Web+Developer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Biomedical+Engineering+Student;Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 <br />
 👋 Hi there! I'm Abduulah Omran, a Full Stack Web Developer passionate about crafting immersive web experiences. Here's a bit about me:
 <br />
